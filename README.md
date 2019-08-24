@@ -2,7 +2,7 @@
 
 The application uses Mozilla [Android Components](https://github.com/mozilla-mobile/android-components)
  - `GeckoView`
- - 'GeckoEngine`
+ - `GeckoEngine`
  
  #### Important: The application does not employ a toolbar to enter a URI
  
