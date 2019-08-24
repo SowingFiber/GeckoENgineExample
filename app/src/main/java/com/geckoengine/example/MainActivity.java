@@ -24,6 +24,6 @@ public class MainActivity extends AppCompatActivity {
 
         //TODO: add any url
         //TODO: Use intent.putExtraString() to send a url from the main activity to this activity
-        session.loadUri("http://theyouthbuzz.com/");
+        session.loadUri("https://www.google.com");
     }
 }
